@@ -10,6 +10,7 @@
 <p align="center">Professinal software developer passionate about hardware and electronics.</p>
 
 [![Github](https://img.shields.io/github/followers/peterprototypes?label=Follow%20Me&style=social)](https://github.com/peterprototypes)
+<img alt="Cover Photo" src="./assets/cover.png">
 
 **My Daily Drivers**
 
