@@ -9,28 +9,29 @@
 
 <p align="center">Professinal software developer passionate about hardware and electronics.</p>
 
+[![Github](https://img.shields.io/github/followers/peterprototypes?label=Follow%20Me&style=social)](https://github.com/peterprototypes)
+
 **My Daily Drivers**
 
-- [Arch Linux](https://archlinux.org/)
-- [VSCode](https://github.com/microsoft/vscode)
-- [Netbeans](https://github.com/apache/netbeans)
-- @FreeCAD
-- @KiCad
-- @Ultimaker's Cura
-- @Blender
-- @thundernest
+<code><img height="35" alt="Arch Linux" title="Arch Linux" src="./assets/arch.png"></code>
+<code><img height="35" alt="VSCode" title="FreeCAD" src="./assets/vscode.png"></code>
+<code><img height="35" alt="NetBeans" title="FreeCAD" src="./assets/NetBeans.svg"></code>
+<code><img height="35" alt="FreeCAD" title="FreeCAD" src="./assets/freecad.png"></code>
+<code><img height="35" alt="KiCad" title="FreeCAD" src="./assets/kicad.png"></code>
+<code><img height="35" alt="Cura" title="FreeCAD" src="./assets/cura.png"></code>
+<code><img height="35" alt="Blender" title="FreeCAD" src="./assets/blender.png"></code>
+<code><img height="35" alt="Thunderbird" title="FreeCAD" src="./assets/thunderbird.png"></code>
 
 **Technologies**
 
 <code><img height="25" alt="Rust" title="Rust" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 <code><img height="25" alt="PHP" title="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="25" alt="React" title="react" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/react/react.png"></code>
+<code><img height="25" alt="React" title="React" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/react/react.png"></code>
 <code><img height="25" alt="javascript" title="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" alt="Angular" title="Angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="25" alt="AWS" title="AWS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="25" alt="Terraform" title="Terraform" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
 <code><img height="25" alt="Docker" title="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="25" alt="git" title="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" alt="GraphQL" title="GraphQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="25" alt="Linux" title="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="25" alt="MySQL" title="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
