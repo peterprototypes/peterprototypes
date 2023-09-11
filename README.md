@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2 align="center"><a href="https://peterprototypes.com"><img width="50%" alt="Peter Todorov" src="./assets/header.png" /></a></h2>
+
 
 <!--
 **peterprototypes/peterprototypes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
