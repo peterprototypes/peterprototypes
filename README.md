@@ -1,6 +1,13 @@
-<h2 align="center"><a href="https://peterprototypes.com"><img width="50%" alt="Peter Todorov" src="./assets/header.png" /></a></h2>
+<h2 align="center">
+    <a href="https://peterprototypes.com" target="_blank">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.png">
+            <img width="50%" alt="Peter Todorov" src="./assets/header-light.png">
+        </picture>
+    </a>
+</h2>
 
-
+<p align="center">From Bits to Bolts I do Software and Hardware</p>
 <!--
 **peterprototypes/peterprototypes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
