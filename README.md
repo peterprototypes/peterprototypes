@@ -12,7 +12,7 @@
 Hey 👋, I'm Peter. I'm a software dev by day and hardware hacker by night. I love open source projects and the people doing them! I'm a compulsive learner and, if I could, would download a car and 3D print it.
 
 [![Github](https://img.shields.io/github/followers/peterprototypes?label=Follow%20Me&style=social)](https://github.com/peterprototypes)
-<img alt="Cover Photo" src="./assets/cover.png">
+<img alt="Cover Photo" src="./assets/cover.jpg">
 
 **My Daily Drivers**
 
