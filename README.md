@@ -14,16 +14,16 @@ Hey 👋, I'm Peter. I'm a software dev by day and hardware hacker by night. I l
 [![Github](https://img.shields.io/github/followers/peterprototypes?label=Follow%20Me&style=social)](https://github.com/peterprototypes)
 <img alt="Cover Photo" src="./assets/cover.jpg">
 
-**My Daily Drivers**
+**Daily Drivers**
 
 <code><img height="35" alt="Arch Linux" title="Arch Linux" src="./assets/arch.png"></code>
-<code><img height="35" alt="VSCode" title="FreeCAD" src="./assets/vscode.png"></code>
-<code><img height="35" alt="NetBeans" title="FreeCAD" src="./assets/NetBeans.svg"></code>
+<code><img height="35" alt="VSCode" title="VSCode" src="./assets/vscode.png"></code>
+<code><img height="35" alt="NetBeans" title="NetBeans" src="./assets/NetBeans.svg"></code>
 <code><img height="35" alt="FreeCAD" title="FreeCAD" src="./assets/freecad.png"></code>
-<code><img height="35" alt="KiCad" title="FreeCAD" src="./assets/kicad.png"></code>
-<code><img height="35" alt="Cura" title="FreeCAD" src="./assets/cura.png"></code>
-<code><img height="35" alt="Blender" title="FreeCAD" src="./assets/blender.png"></code>
-<code><img height="35" alt="Thunderbird" title="FreeCAD" src="./assets/thunderbird.png"></code>
+<code><img height="35" alt="KiCad" title="KiCad" src="./assets/kicad.png"></code>
+<code><img height="35" alt="Cura" title="Cura" src="./assets/cura.png"></code>
+<code><img height="35" alt="Blender" title="Blender" src="./assets/blender.png"></code>
+<code><img height="35" alt="Thunderbird" title="Thunderbird" src="./assets/thunderbird.png"></code>
 
 **Technologies**
 
