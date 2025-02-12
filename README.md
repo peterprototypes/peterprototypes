@@ -1,14 +1,3 @@
-<h2 align="center">
-    <a href="https://peterprototypes.com" target="_blank">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.png">
-            <img width="50%" alt="Peter Todorov" src="./assets/header-light.png">
-        </picture>
-    </a>
-</h2>
-
-<p align="center">Professional software developer passionate about hardware and electronics.</p>
-
 Hey 👋, I'm Peter. I'm a software dev by day and a hardware hacker by night. I love open-source projects and the people doing them! I'm a compulsive learner and, if I could, would download a car and 3D print it.
 
 [![Github](https://img.shields.io/github/followers/peterprototypes?label=Follow%20Me&style=social)](https://github.com/peterprototypes)
